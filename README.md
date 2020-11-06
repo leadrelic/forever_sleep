@@ -1,6 +1,6 @@
 # forever_sleep
 
-Open up notepad and copy and paste that.
+Open up notepad and copy and paste the code.
 
 Save it as a .bat file.
 
